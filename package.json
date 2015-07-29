@@ -1,0 +1,25 @@
+{
+  "name": "pee-app",
+  "version": "1.0.0",
+  "description": "App that tracks how often you pee everyday",
+  "license": "ISC",
+  "main": "./lib/index.js",
+  "author": "Katrina",
+  "dependencies": {
+    "async": "^0.9.0",
+    "bluebird": "^2.3.11",
+    "body-parser": "^1.9.2",
+    "express": "^4.10.2",
+    "mongoose": "3.8.*",
+    "request": "^2.47.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "connect": "^3.4.0",
+    "expect.js": "^0.3.1",
+    "fhirball": "0.0.7",
+    "node-mocks-http": "^1.4.1",
+    "sinon": "^1.14.1",
+    "supertest": "^0.15.0"
+  }
+}

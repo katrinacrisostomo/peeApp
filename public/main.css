@@ -1,0 +1,37 @@
+h1 {
+	font-family: sans-serif;
+
+}
+
+.float {
+	float: left;
+}
+
+.days {
+	font: 18px sans-serif;
+	list-style-type: none;
+	padding-right: 10px;
+	margin: 0;
+}
+
+.day {
+	padding: 3px;
+  	margin: 2px;
+}
+
+.chart div {
+	font: 18px sans-serif;
+	background-color: #FF3399;
+	text-align: right;
+	padding: 3px;
+	margin: 2px;
+	color: white;
+}
+
+.clear {
+	clear: both;
+}
+
+p {
+	font-family: sans-serif;
+}
